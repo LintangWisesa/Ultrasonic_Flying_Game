@@ -75,7 +75,7 @@ Gather your parts then follow the schematics below.
    myPort = new Serial(this, Serial.list()[0], 9600);
    ```
 
-- Edit ```'[0]'``` with ```[your__port]```. Read on Processing documentation to know how to find the right corresponding port. Then run sketch below.
+- Edit ```java'[0]'``` with ```java[your__port]```. Read on Processing documentation to know how to find the right corresponding port. Then run sketch below.
 
    ```java
     int i, j; 
