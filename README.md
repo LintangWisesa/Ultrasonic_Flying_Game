@@ -191,6 +191,8 @@ Gather your parts then follow the schematics below.
 ### **5. Have Fun!** :joy:
 - If everything goes well, now you can control the plane's altitude by set our hand's above the ultrasonic sensor. Enjoy!
 
+![Lintang UFG Screenshot](https://raw.githubusercontent.com/LintangWisesa/Ultrasonic_Flying_Game/master/UFG_Screenshot.png)
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
