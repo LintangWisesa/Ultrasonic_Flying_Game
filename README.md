@@ -4,7 +4,7 @@
 
 # Ultrasonic Flying Game
 
-### Ultrasonic Flying Game is a simple Arduino & Processing project that visualize the value of distance from ultrasonic sensor into altitude of a plane image. First, I wanna say big thanks to **Mr. Roux Benjamin** from France, for his basic instructions and fast respond replying my questions. Watch the video below ([click here](https://www.youtube.com/watch?v=O1SEshue9pY)) to see its action, then follow the instructions below to build your own Ultrasonic Flying Game!
+### Ultrasonic Flying Game is a simple Arduino & Processing project that visualize the value of distance from ultrasonic sensor into altitude of a plane image. First, I wanna say big thanks to _**Mr. Roux Benjamin**_ from France, for his basic instructions and fast respond replying my questions. Watch the video below ([click here](https://www.youtube.com/watch?v=O1SEshue9pY)) to see its action, then follow the instructions below to build your own Ultrasonic Flying Game!
 
 #
 
@@ -27,7 +27,7 @@ To build this project, you need the following items:
 
 Gather your parts then follow the schematics below.
 
-![Arduino UFG schematics](https://raw.githubusercontent.com/LintangWisesa/Tamiya-Androino-1.0/master/TamiyaAndroino.png)
+![Arduino UFG schematics](https://raw.githubusercontent.com/LintangWisesa/Ultrasonic_Flying_Game/master/UFG_Schematics.png)
 
 #
 
